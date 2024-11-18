@@ -14,8 +14,8 @@ Visualization: Displays pie chart of the target variable "passed" and correlatio
 Dataset
 The model uses a dataset with features such as:
 
-Academic scores
-Access to internet
-Parental education level
+Academic scores,
+Access to internet,
+Parental education level,
 Study hours
 and other important parameters
