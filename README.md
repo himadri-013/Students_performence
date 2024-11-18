@@ -2,7 +2,9 @@
 
 This repository contains a machine learning model designed to predict student performance based on various factors, such as study hours, attendance, and socioeconomic indicators. It provides insights for educators and policymakers to improve educational outcomes.
 
-Features
+Features :
+
+
 Data Preprocessing: Handles missing values, normalizes data, and encodes categorical variables.
 
 Modeling: Implements various machine learning algorithms like Logistic Regression, K nearest Neighbous, and naive Bayes classifier.
