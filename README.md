@@ -13,7 +13,9 @@ Evaluation: Assesses model performance using metrics like f1 and Accuracy.
 
 Visualization: Displays pie chart of the target variable "passed" and correlation heatmaps showing the correlation of other features with "passed".
 
-Dataset
+Dataset :
+
+
 The model uses a dataset with features such as:
 
 Academic scores,
